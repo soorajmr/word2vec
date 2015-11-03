@@ -2,12 +2,13 @@
 
 Repository for Harvard CSCI E-81 Machine Learning and Data Mining paper presentataion.
 
-Paper: [Efficient Estimation of Word Representations in Vector Space] (http://arxiv.org/pdf/1301.3781.pdf), Mikolov et al.
-[Presentation by the authors](https://docs.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit) in NIPS 2013.
+Paper: 
+* [Efficient Estimation of Word Representations in Vector Space] (http://arxiv.org/pdf/1301.3781.pdf), Mikolov et al.
+* [Presentation by the authors](https://docs.google.com/file/d/0B7XkCwpI5KDYRWRnd1RzWXQ2TWc/edit) in NIPS 2013.
 
 Follow-up papers:
-*[Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf)
-*[Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf)
+* [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf)
+* [Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf)
 
 ### Resources & References
 * Original C implmentation by Google: https://code.google.com/p/word2vec/
